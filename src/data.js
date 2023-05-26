@@ -1,4 +1,5 @@
-const data = [
+const data = {
+    products: [
     {
         id: '1',
         name: 'Macbook',
@@ -17,6 +18,7 @@ const data = [
         price: 2000,
         image: 'https://image-us.samsung.com/SamsungUS/home/televisions-and-home-theater/tvs/gallery01-heroimage-UN43NU6900FXZA-060818.jpg?$product-details-jpg$'
     },
-]
+    ]
+}
 
 export default data;
